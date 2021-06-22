@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PongPwa</string>
+    <string name="button1">writeDiary</string>
+    <string name="button2">DiaryList</string>
+    <string name="btn_add">addDiary</string>
+</resources>
